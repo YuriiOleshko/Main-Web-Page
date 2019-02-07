@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Main-Web-Page/static/media/weather.7ad9ae69.png"
   },
   {
-    "revision": "31cf383bb9e43215abee",
-    "url": "/Main-Web-Page/static/css/main.2c0dd69c.chunk.css"
+    "revision": "1b18118dfa837cd7f8ec",
+    "url": "/Main-Web-Page/static/css/main.f39f76b1.chunk.css"
   },
   {
     "revision": "d6ce2162b669083611996df2fc741947",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/Main-Web-Page/static/media/game.1997821c.png"
   },
   {
-    "revision": "31cf383bb9e43215abee",
-    "url": "/Main-Web-Page/static/js/main.31cf383b.chunk.js"
+    "revision": "1b18118dfa837cd7f8ec",
+    "url": "/Main-Web-Page/static/js/main.1b18118d.chunk.js"
   },
   {
     "revision": "75bd028bb790437b819d692649fb83c0",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/Main-Web-Page/static/css/1.2bbf9290.chunk.css"
   },
   {
-    "revision": "d385df06b5f338dd834f5a3417b448f5",
+    "revision": "d7ba61e445b17226b48b37a82a3d9734",
     "url": "/Main-Web-Page/index.html"
   }
 ];
